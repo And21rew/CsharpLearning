@@ -1,0 +1,8 @@
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_1_StrangersCipher\bin\Debug\Task_1_StrangersCipher.exe.config
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_1_StrangersCipher\bin\Debug\Task_1_StrangersCipher.exe
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_1_StrangersCipher\bin\Debug\Task_1_StrangersCipher.pdb
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_1_StrangersCipher\obj\Debug\Task_1_StrangersCipher.csproj.AssemblyReference.cache
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_1_StrangersCipher\obj\Debug\Task_1_StrangersCipher.csproj.SuggestedBindingRedirects.cache
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_1_StrangersCipher\obj\Debug\Task_1_StrangersCipher.csproj.CoreCompileInputs.cache
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_1_StrangersCipher\obj\Debug\Task_1_StrangersCipher.exe
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_1_StrangersCipher\obj\Debug\Task_1_StrangersCipher.pdb

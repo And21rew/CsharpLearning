@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\Task_3_DoSomethingDontKnowWhat\bin\Debug\DoSomethingDontKnowWhat.exe.config
+C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\Task_3_DoSomethingDontKnowWhat\bin\Debug\DoSomethingDontKnowWhat.exe
+C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\Task_3_DoSomethingDontKnowWhat\bin\Debug\DoSomethingDontKnowWhat.pdb
+C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\Task_3_DoSomethingDontKnowWhat\obj\Debug\Task_3_DoSomethingDontKnowWhat.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\Task_3_DoSomethingDontKnowWhat\obj\Debug\Task_3_DoSomethingDontKnowWhat.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\Task_3_DoSomethingDontKnowWhat\obj\Debug\DoSomethingDontKnowWhat.exe
+C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\Task_3_DoSomethingDontKnowWhat\obj\Debug\DoSomethingDontKnowWhat.pdb

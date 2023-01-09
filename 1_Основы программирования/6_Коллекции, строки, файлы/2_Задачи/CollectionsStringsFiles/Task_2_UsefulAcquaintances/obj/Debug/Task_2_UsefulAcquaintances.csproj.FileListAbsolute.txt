@@ -1,0 +1,8 @@
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_2_UsefulAcquaintances\bin\Debug\Task_2_UsefulAcquaintances.exe.config
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_2_UsefulAcquaintances\bin\Debug\Task_2_UsefulAcquaintances.exe
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_2_UsefulAcquaintances\bin\Debug\Task_2_UsefulAcquaintances.pdb
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_2_UsefulAcquaintances\obj\Debug\Task_2_UsefulAcquaintances.csproj.AssemblyReference.cache
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_2_UsefulAcquaintances\obj\Debug\Task_2_UsefulAcquaintances.csproj.SuggestedBindingRedirects.cache
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_2_UsefulAcquaintances\obj\Debug\Task_2_UsefulAcquaintances.csproj.CoreCompileInputs.cache
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_2_UsefulAcquaintances\obj\Debug\Task_2_UsefulAcquaintances.exe
+E:\CsharpLearning\1_Part\6_Коллекции, строки, файлы\2_Задачи\CollectionsStringsFiles\Task_2_UsefulAcquaintances\obj\Debug\Task_2_UsefulAcquaintances.pdb

@@ -1,7 +1,0 @@
-C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\MinimumFunction\bin\Debug\MinimumFunction.exe.config
-C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\MinimumFunction\bin\Debug\MinimumFunction.exe
-C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\MinimumFunction\bin\Debug\MinimumFunction.pdb
-C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\MinimumFunction\obj\Debug\MinimumFunction.csproj.AssemblyReference.cache
-C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\MinimumFunction\obj\Debug\MinimumFunction.csproj.CoreCompileInputs.cache
-C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\MinimumFunction\obj\Debug\MinimumFunction.exe
-C:\Users\andre\Documents\GitHub\CsharpLearning\1_Part\2_Ошибки\2_Задачи\Mistakes\MinimumFunction\obj\Debug\MinimumFunction.pdb
